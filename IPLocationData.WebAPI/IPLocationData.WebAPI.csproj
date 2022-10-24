@@ -15,8 +15,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\IPLocationDataBusiness\IPLocationData.Business.csproj" />
-    <ProjectReference Include="..\IPLocationData_Data\IPLocationData.Data.csproj" />
+    <ProjectReference Include="..\IPLocationData.Business\IPLocationData.Business.csproj" />
+    <ProjectReference Include="..\IPLocationData.Data\IPLocationData.Data.csproj" />
   </ItemGroup>
 
 </Project>

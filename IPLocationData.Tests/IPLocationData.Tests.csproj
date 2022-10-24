@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\IPLocationDataWebAPI\IPLocationData.WebAPI.csproj" />
+    <ProjectReference Include="..\IPLocationData.WebAPI\IPLocationData.WebAPI.csproj" />
   </ItemGroup>
 
 </Project>

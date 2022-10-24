@@ -5,11 +5,11 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mircroservices", "Mircroservices", "{AA967065-5368-4D9F-B365-3FE6DEB11E6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPLocationData.WebAPI", "IPLocationDataWebAPI\IPLocationData.WebAPI.csproj", "{DFEF760B-C41A-48A8-A598-59F2A638CF89}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPLocationData.WebAPI", "IPLocationData.WebAPI\IPLocationData.WebAPI.csproj", "{DFEF760B-C41A-48A8-A598-59F2A638CF89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPLocationData.Business", "IPLocationDataBusiness\IPLocationData.Business.csproj", "{0B3CF07D-ABCB-40AC-B983-DD0ED29C55BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPLocationData.Business", "IPLocationData.Business\IPLocationData.Business.csproj", "{0B3CF07D-ABCB-40AC-B983-DD0ED29C55BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPLocationData.Data", "IPLocationData_Data\IPLocationData.Data.csproj", "{C940DA67-EDCD-4740-9FC0-04B3E6645922}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPLocationData.Data", "IPLocationData.Data\IPLocationData.Data.csproj", "{C940DA67-EDCD-4740-9FC0-04B3E6645922}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPLocationData.Tests", "IPLocationData.Tests\IPLocationData.Tests.csproj", "{F2F26136-1165-463E-AFC0-DE95BE8DE976}"
 EndProject
